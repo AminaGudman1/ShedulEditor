@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheduleEditor_AGForms", "SheduleEditor_Amina\SheduleEditor_AGForms.csproj", "{0459A5DB-F2BC-487B-B296-B7B2123DD9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheduleEditor_AG", "SheduleEditor_AG\SheduleEditor_AG.csproj", "{83492BD9-0B68-439D-BF91-7F6D3605B042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0459A5DB-F2BC-487B-B296-B7B2123DD9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0459A5DB-F2BC-487B-B296-B7B2123DD9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0459A5DB-F2BC-487B-B296-B7B2123DD9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0459A5DB-F2BC-487B-B296-B7B2123DD9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83492BD9-0B68-439D-BF91-7F6D3605B042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83492BD9-0B68-439D-BF91-7F6D3605B042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83492BD9-0B68-439D-BF91-7F6D3605B042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83492BD9-0B68-439D-BF91-7F6D3605B042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68FB535E-A8B9-45BA-8F93-06F48781C2A5}
+	EndGlobalSection
+EndGlobal
